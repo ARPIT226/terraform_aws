@@ -19,7 +19,7 @@ From the frontend server, SSH into the MySQL server to inspect the database:
 
 ---
 
-## ⚙️ Step 3: Enable MySQL Service
+## Step 3: Enable MySQL Service
 
 Start and enable MySQL:
 
