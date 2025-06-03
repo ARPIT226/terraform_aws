@@ -1,4 +1,4 @@
-## Checking whether app is working correctly by verifying the user registeration through the application
+## Checking application working by verifying the user registeration through the application
 
 
 ## Step 1: SSH into the Frontend (NGINX) Server
